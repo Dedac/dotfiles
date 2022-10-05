@@ -1,12 +1,9 @@
 { "workbench.colorCustomizations": {
-    "activityBar.activeBorder": "#e5b358",
-    "activityBar.foreground": "#797d7b",
-    "gitDecoration.modifiedResourceForeground": "#d4cb68",
-    "gitDecoration.addedResourceForeground": "#C2D94C",
-    "editorSuggestWidget.highlightForeground": "#e5b358",
-    "editorSuggestWidget.selectedBackground": "#1c2a42",
-    "tab.inactiveForeground": "#676b6a",
-    "sideBar.foreground": "#b3b1adBB",
-    "sideBarTitle.foreground": "#0a0e14"
+  "gitDecoration.modifiedResourceForeground": "#d4cb68",
+  "gitDecoration.addedResourceForeground": "#C2D94C",
+  "editorSuggestWidget.highlightForeground": "#e5b358",
+  "editorSuggestWidget.selectedBackground": "#1c2a42",
+  "tab.inactiveForeground": "#676b6a",
+  "sideBarTitle.foreground": "#0a0e14"
   }
 }
