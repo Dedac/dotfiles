@@ -1,4 +1,4 @@
- #! bin/bash
+ #! /bin/bash
 
  #if we are on codespaces copy the vscode codespaces questions
 if ("$CODESPACES" == "true" ) then
